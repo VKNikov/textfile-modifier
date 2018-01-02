@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="textfile-modifier:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/textfile_modifier_jar</output-path>
+    <root id="archive" name="textfile-modifier.jar">
+      <element id="module-output" name="textfile-modifier" />
+    </root>
+  </artifact>
+</component>
